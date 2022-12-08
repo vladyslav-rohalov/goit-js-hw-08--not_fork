@@ -1,0 +1,28 @@
+{
+  "name": "goit-js-hw-08--not_fork",
+  "version": "1.0.0",
+  "description": "the same hw-08, self-assembly Parcel",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08--not_fork/ --no-cache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladyslav-rohalov/goit-js-hw-08--not_fork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladyslav-rohalov/goit-js-hw-08--not_fork/issues"
+  },
+  "homepage": "https://vladyslav-rohalov.github.io/goit-js-hw-08--not_fork/",
+  "dependencies": {
+    "@vimeo/player": "^2.18.0",
+    "lodash.throttle": "^4.1.1",
+    "modern-normalize": "^1.1.0",
+    "simplelightbox": "^2.11.0"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
+}
