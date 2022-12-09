@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# parcel-bundler cache (https://parceljs.org/)
+.parcel-cache
